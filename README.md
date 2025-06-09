@@ -38,7 +38,7 @@ We used the **Emotion-Cause-in-Friends (ECF)** dataset, derived from the *Friend
 Hierarchical BiLSTM encoders for emotion and cause detection with shared auxiliary learning, followed by Cartesian pair prediction.
 
 <p align="center">
-  <img src="assets/e2e_architecture.png" alt="E2E Architecture" width="700"/>
+  <img src="images/End-to-End Network.png" alt="E2E Architecture" width="700"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@ Hierarchical BiLSTM encoders for emotion and cause detection with shared auxilia
 Combines EmoBERTa for emotion detection and a transformer for cause identification. DeBERTa enhances final pair reasoning using QA-style prompt-tuning.
 
 <p align="center">
-  <img src="assets/emoberta_architecture.png" alt="EmoBERTa Architecture" width="700"/>
+  <img src="images/Architecture of the EmoBERTa-Based Approach.png" alt="EmoBERTa Architecture" width="700"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ Combines EmoBERTa for emotion detection and a transformer for cause identificati
 Models are fine-tuned via formatted conversational prompts. Output parsing remains a challenge due to inconsistent generation formats.
 
 <p align="center">
-  <img src="assets/prompt_tuning_architecture.png" alt="Prompt Tuning Architecture" width="700"/>
+  <img src="images/Architecture used for Prompt-Tuning LMs.png" alt="Prompt Tuning Architecture" width="700"/>
 </p>
 
 ---
