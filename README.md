@@ -1,6 +1,6 @@
 # Emotion-Cause Pair Extraction in Conversations
 
-This repository presents a comparative study of different approaches to **Emotion-Cause Pair Extraction (ECPE)** in conversations, as part of SemEval-2024 Task 3. The task involves identifying emotions and their underlying causes from multi-turn dialogue data.
+This repository presents a comparative study of different approaches to **Emotion-Cause Pair Extraction (ECPE)** in conversations. The task involves identifying emotions and their underlying causes from multi-turn dialogue data.
 
 ---
 
